@@ -42,7 +42,7 @@ We rely on a modern, type-safe, and scalable stack to deliver production-grade s
 | **Ronit Kumar** | **Vaibhav Singh** | **MD Shahzaman Faisal** |
 | :---: | :---: | :---: |
 | **CEO & Frontend Lead** | **CTO & Architecture** | **COO & Backend Lead** |
-| [GitHub](https://github.com/RonitKumarProfile) | [GitHub](https://github.com/VaibhavProfile) | [GitHub](https://github.com/ShahzamanProfile) |
+| [GitHub](https://github.com/RonitKumarProfile) | [GitHub](https://github.com/VaibhavProfile) | [GitHub](https://github.com/Shahzaman3) |
 
 ---
 
